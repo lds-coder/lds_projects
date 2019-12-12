@@ -1,0 +1,12 @@
+
+*.exe
+testGitHub/.vs/testGitHub/v16/.suo
+*.db
+*.opendb
+*.ipch
+*.ilk
+*.pdb
+*.obj
+*.log
+*.tlog
+*.idb
